@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7,8,9,10
+County / Parish / Borough,State,# of properties*,Population 2015*,APN Format*,Example APN*,Website,Seat,Year Organized,Square Miles*,People / SQML*
+Androscoggin,Maine,"41,184","107,604",00000 000 000 000 0ON,19105 001 038 000 0ON,http://www.androscoggincountymaine.gov/,Auburn,1854,497,216
+Aroostook,Maine,"35,323","70,055",00000-000-000,10565-002-039,http://www.aroostook.me.us,Houlton,1839,"6,828",10
+Cumberland,Maine,"146,196","285,456",00000-R00000A-000,10180-R02011A-000,http://www.cumberlandcounty.org,Portland,1760,"1,217",234
+Franklin,Maine,"25,357","30,495",00000 00000 00000 0000,10740 00130 00112 0002,http://www.franklincounty.maine.gov/,Farmington,1838,"1,743",17
+Hancock,Maine,"52,357","54,845",00000 00 000A 00,11265 11 001A 03,http://www.co.hancock.me.us,Ellsworth,1789,"2,345",23
+Kennebec,Maine,"50,256","121,164",00000-00-ROW,12350-09-ROW,http://www.kennebeccounty.org,Augusta,1799,951,127
+Knox,Maine,"28,197","39,550",00000-000-000A,15780-001-007A,http://knoxcountymaine.gov/,Rockland,1860,"1,144",35
+Lincoln,Maine,"28,357","34,088",000000,150074,http://www.lincolncountymaine.me/,Wiscasset,1760,700,49
+Oxford,Maine,"41,947","57,277",00000 R00 000 0A,10005 R06 017 0A,http://www.oxfordcounty.org/,Paris,1805,"2,176",26
+Penobscot,Maine,"49,926","153,364",00000-0,10102-0,http://www.penobscot-county.net/,Bangor,1816,"3,557",43
+Sagadahoc,Maine,"20,499","35,013",GEON-000000-000000-000000-000000,GEON-000000-000000-000000-000461,http://www.sagcounty.com/,Bath,1854,370,95
+Somerset,Maine,"21,170","51,706",0000,1192,http://www.somersetcounty-me.org,Skowhegan,1809,"4,094",13
+Waldo,Maine,"18,195","38,940",BELF-000000-000000-000000-F000000,BELF-000001-000000-000023-F000000,http://www.waldocountyme.gov/,Belfast,1827,853,46
+Washington,Maine,"38,276","32,190",00000-00-00-00,12175-01-01-00,http://www.washingtoncountymaine.com/,Machias,1789,"3,258",10
+York,Maine,"95,616","199,431",000000000,101037013,http://YorkCountyMaine.gov,Alfred,1636,"1,270",157

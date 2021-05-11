@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7,8,9,10
+County / Parish / Borough,State,# of properties*,Population 2015*,APN Format*,Example APN*,Website,Seat,Year Organized,Square Miles*,People / SQML*
+Allegany,Maryland,"42,087","73,521",00-000000,10-000742,http://www.gov.allconet.org/,Cumberland,1789,430,171
+Anne Arundel,Maryland,"249,417","555,743",0–00-0-000000,1–04-6-038780,http://www.aacounty.org/,Annapolis,1650,588,945
+Baltimore,Maryland,"327,836","823,015",00-0000000,10-0005910,http://www.baltimorecountymd.gov,Towson,1659,682,1207
+Calvert,Maryland,"53,022","90,484",00-0000,10-0939,http://www.co.cal.md.us,Prince Frederick,1650,345,262
+Caroline,Maryland,"16,950","32,693",00-000000,12-005229,http://www.carolinemd.org/governmt/,Denton,1773,326,100
+Carroll,Maryland,"70,288","167,564",00-000000,10-000017,http://www.carr.org/,Westminster,1836,453,370
+Cecil,Maryland,n/a,"101,913",00-000000,10-031023,http://www.ccgov.org,Elkton,1674,418,244
+Charles,Maryland,"66,465","152,864",00-000000,10-000017,http://www.charlescounty.org,La Plata,1658,643,238
+Dorchester,Maryland,"23,261","32,660",00–00000,10–00160,http://www.docogonet.com,Cambridge,1668,983,33
+Frederick,Maryland,"104,984","241,409",00-000000,10-263905,http://www.co.frederick.md.us,Frederick,1748,667,362
+Garrett,Maryland,"30,937","29,889",00-000000,10-000001,http://www.garrettcounty.org/,Oakland,1872,656,46
+Harford,Maryland,"100,301","249,215",00-0000,10-1363,http://www.harfordcountymd.gov,Bel Air,1773,527,473
+Kent,Maryland,"13,932","19,944",No records found,No records found,http://www.kentcounty.com,Chestertown,1642,413,48
+Montgomery,Maryland,"278,940","1,016,677",00-00000000,10-00847214,http://www.montgomerycountymd.gov,Rockville,1776,507,2005
+Prince George’s,Maryland,"331,092","890,081",00-0000000,10-0013135,http://www.goprincegeorgescounty.com,Upper Marlboro,1695,499,1784
+Queen Anne’s,Maryland,"26,637","48,517",00-0000,10-0328,http://www.qac.org/,Centreville,1706,511,95
+St. Mary’s,Maryland,"51,323","109,633",00-000000,10-030418,http://www.co.saint-marys.md.us,Leonardtown,1637,764,143
+Somerset,Maryland,"17,511","26,273",00-000000,10-000017,http://www.somersetmd.us/,Princess Anne,1666,610,43
+Talbot,Maryland,"21,453","37,931",00-00 000,10-00 020,http://www.talbgov.org *Webste Error,Easton,1662,477,80
+Washington,Maryland,"61,173","149,588",00-000000,10-000017,http://www.washco-md.net,Hagerstown,1776,467,320
+Wicomico,Maryland,"48,295","100,896",00-000000,10-000017,http://www.wicomicocounty.org,Salisbury,1867,400,252
+Worcester,Maryland,"40,581","51,620",00-000000,10-000017,http://www.co.worcester.md.us/,Snow Hill,1742,695,74
+"Baltimore, City of",Maryland,n/a,"622,104",0000-000,1002-001,http://www.baltimorecity.gov/,Baltimore,1851,92,6758

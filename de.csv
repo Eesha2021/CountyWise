@@ -1,0 +1,5 @@
+0,1,2,3,4,5,6,7,8,9,10
+County / Parish / Borough,State,# of properties*,Population 2015*,APN Format*,Example APN*,Website,Seat,Year Organized,Square Miles*,People / SQML*
+Kent,Delaware,"84,073","169,416",0-00-00000-00-0000-000,1-00-00100-01-0100-000,http://www.co.kent.de.us/,Dover,1680,798,212
+New Castle,Delaware,"204,380","549,684",00-000.00-000,10-001.00-001,http://nccde.org/,Wilmington,1673,494,1113
+Sussex,Delaware,"182,450","206,649",0-00-00.00-0000.00,1-30-01.19-0046.01,http://www.sussexcountyde.gov/,Georgetown,1680,"1,196",173

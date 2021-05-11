@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7,8,9,10
+County / Parish / Borough,State,# of properties*,Population 2015*,APN Format*,Example APN*,Website,Seat,Year Organized,Square Miles*,People / SQML*
+Apache,Arizona,"43,092","71,934",000-00-000,101-01-001,http://www.co.apache.az.us/,Saint Johns,1879,"11,218",6
+Cochise,Arizona,"127,102","129,473",000-00-000,101-02-001,http://www.co.cochise.az.us/,Bisbee,1881,"6,219",21
+Coconino,Arizona,"75,294","136,539",000-00-000B,100-01-001B,http://coconino.az.gov/,Flagstaff,1891,"18,661",7
+Gila,Arizona,"32,995","53,053",000-00-000,101-01-002,http://www.gilacountyaz.gov/,Globe,1881,"4,795",11
+Graham,Arizona,"17,651","37,482",000-00-000,101-01-001,http://www.graham.az.gov/,Safford,1881,"4,641",8
+Greenlee,Arizona,"4,880","9,049",000-00-000,100-02-002,http://www.co.greenlee.az.us,Clifton,1909,"1,848",5
+La Paz,Arizona,n/a,"20,324",000-00-000W,101-04-022W,http://www.co.la-paz.az.us/,Parker,1983,"4,514",5
+Maricopa,Arizona,"1,590,529","4,009,412",000-00-000-C,101-01-001-C,http://www.maricopa.gov,Phoenix,1871,"9,224",435
+Mohave,Arizona,"259,004","203,030",000-00-000,101-01-002,http://www.mohavecounty.us/,Kingman,1864,"13,461",15
+Navajo,Arizona,"7,113","107,322",000-00-000,101-01-006,http://www.navajocountyaz.gov,Holbrook,1895,"9,960",11
+Pima,Arizona,"10,043","996,554",000-00-000D,101-01-001D,http://www.pima.gov/,Tucson,1870,"9,189",108
+Pinal,Arizona,"237,312","389,350",000–0-0-00,100–2-6-02,http://pinalcountyaz.gov,Florence,1875,"5,374",72
+Santa Cruz,Arizona,"43,170","46,768",000-00-000,101-25-001,http://www.santa-cruz.az.us/,Nogales,1899,"1,238",38
+Yavapai,Arizona,"36,132","215,133",000–0-0-0,100–1-5-0,http://www.yavapai.us/,Prescott,1864,"8,128",26
+Yuma,Arizona,"87,735","201,201",000-00-000,101-00-001,http://yumacountyaz.gov,Yuma,1864,"5,519",36

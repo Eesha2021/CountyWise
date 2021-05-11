@@ -1,0 +1,40 @@
+0,1,2,3,4,5,6,7,8,9,10
+County / Parish / Borough,State,# of properties*,Population 2015*,APN Format*,Example APN*,Website,Seat,Year Organized,Square Miles*,People / SQML*
+Asotin,Washington,13348,"22,110",0-000-00-000-0000-0000,1-000-42-400-7000-2000,http://www.co.asotin.wa.us,Asotin,1883,641,35
+Benton,Washington,70194,"184,486",0-0000-000-0000-000,1-0104-000-0000-000,http://www.co.benton.wa.us,Prosser,1905,"1,760",105
+Chelan,Washington,45813,"73,967",000000000000,110729898021,http://www.co.chelan.wa.us,Wenatchee,1899,"2,994",25
+Clallam,Washington,54214,"72,312",0000000000000000,1029010000000000,http://www.clallam.net,Port Angeles,1854,"2,671",27
+Clark,Washington,171395,"443,817",000000000,100000000,http://www.clark.wa.gov,Vancouver,1845,656,676
+Columbia,Washington,5371,"4,032",0-000-00-000-0000,1-000-00-010-0010,http://www.columbiaco.com,Dayton,1875,873,5
+Cowlitz,Washington,56276,"101,860",0–0000,1–0306,http://www.co.cowlitz.wa.us,Kelso,1854,"1,166",87
+Douglas,Washington,27391,"39,471",00-00-00-00100,10-00-00-00100,http://www.douglascountywa.net,Waterville,1883,"1,849",21
+Ferry,Washington,12417,"7,646",No records found,No records found,http://www.ferry-county.com/,Republic,1899,"2,257",3
+Franklin,Washington,29594,"86,638",000-000-000,100-010-016,http://www.co.franklin.wa.us/,Pasco,1883,"1,265",68
+Garfield,Washington,4131,"2,256",0-000-00-000-0000-0000,1-000-01-000-0000-0000,http://www.co.garfield.wa.us/,Pomeroy,1881,718,3
+Grant,Washington,54887,"91,878",000000000,100001000,http://www.grantcountywa.gov/,Ephrata,1909,"2,791",33
+Grays Harbor,Washington,60935,"71,078",000000000000,100500100000,http://www.co.grays-harbor.wa.us/,Montesano,1855,"2,224",32
+Island,Washington,50871,"78,801",R00000-000-0000,R03225-024-2880,http://www.islandcounty.net/,Coupeville,1854,517,152
+Jefferson,Washington,44242,"30,076",000000000,101250000,http://www.co.jefferson.wa.us,Port Townsend,1854,"2,183",14
+King,Washington,610490,"2,118,000",000000-0000,100100-0005,https://www.kingcounty.gov/,Seattle,1852,"2,307",912.9
+Kitsap,Washington,110744,"253,968",000000-0-000-00-00,102201-1-001-20-04,http://www.kitsapgov.com/,Port Orchard,1857,566,449
+Kittitas,Washington,37091,"41,765",000000,100133,http://www.co.kittitas.wa.us,Ellensburg,1883,"2,333",18
+Klickitat,Washington,20685,"20,866",No records found,No record found,http://www.klickitatcounty.org,Goldendale,1859,"1,904",11
+Lewis,Washington,56747,"75,081",000000-000-000,102956-000-000,http://www.co.lewis.wa.us,Chehalis,1845,"2,436",31
+Lincoln,Washington,31092,"10,301",No records found,No record found,http://www.co.lincoln.wa.us,Davenport,1883,"2,339",4
+Mason,Washington,60324,"60,497",0-00-00-00-00000,1-00-00-00-00001,http://www.co.mason.wa.us,Shelton,1854,"1,051",58
+Okanogan,Washington,56873,"41,193",0000000000,1000050100,http://www.okanogancounty.org,Okanogan,1888,"5,315",8
+Pacific,Washington,56606,"20,498",00000000000,10090112002,http://www.co.pacific.wa.us,South Bend,1854,"1,223",17
+Pend Oreille,Washington,16649,"12,896",000000-00-0000,443026-12-0001,http://www.pendoreilleco.org/,Newport,1911,"1,425",9
+Pierce,Washington,318740,"819,743",000000-0-000,101725-1-003,http://www.co.pierce.wa.us,Tacoma,1853,"1,806",454
+San Juan,Washington,18532,"15,875",000000-000-000,100232-016-000,http://www.co.san-juan.wa.us/,Friday Harbor,1873,621,26
+Skagit,Washington,82421,"118,837",00000000000000,11340100330007,http://www.skagitcounty.net,Mount Vernon,1883,"1,920",62
+Skamania,Washington,7901,"11,274",00000000000000,10050000010000,http://www.skamaniacounty.org,Stevenson,1854,"1,684",7
+Snohomish,Washington,296512,"745,913",000000-000-000-00,100100-000-007-00,http://snohomishcountywa.gov/,Everett,1861,"2,196",340
+Spokane,Washington,202047,"479,398",00000.0000,11015.9003,http://www.spokanecounty.org/,Spokane,1858,"1,781",269
+Stevens,Washington,43040,"43,430",0000000,1499900,http://www.co.stevens.wa.us/,Colville,1854,"2,541",17
+Thurston,Washington,116071,"262,388",000-00-000000,110-20-411000,http://www.co.thurston.wa.us,Olympia,1852,774,339
+Wahkiakum,Washington,4156,"4,042",000000000000,100805110001,http://www.co.wahkiakum.wa.us,Cathlamet,1854,287,14
+Walla Walla,Washington,30047,"59,530",000000000000,310714510917,http://www.co.walla-walla.wa.us/,Walla walla,1854,"1,299",46
+Whatcom,Washington,103407,"206,353",000000-000000-0000,100130-122172-0057,http://www.co.whatcom.wa.us,Bellingham,1854,"2,503",82
+Whitman,Washington,n/a,"46,570",000000000000000,100004419155900,http://www.whitmancounty.org,Colfax,1871,"2,178",21
+Yakima,Washington,104818,"247,044",000000-00000,110712-11002,http://www.co.yakima.wa.us,Yakima,1865,"4,311",57

@@ -1,0 +1,135 @@
+0,1,2,3,4,5,6,7,8,9,10
+County / Parish / Borough,State,# of properties*,Population 2015*,APN Format*,Example APN*,Website,Seat,Year Organized,Square Miles*,People / SQML*
+Accomack,Virginia,"48,235","33,148",000-00-00-00-A000-00,100-00-01-00-A000-00,http://www.co.accomack.va.us,Accomac,1663,"1,310",25
+Albemarle,Virginia,"43,500","103,000",00000-00-00-00000,10000-00-00-00100,http://www.albemarle.org,Charlottesville,1744,726,142
+Alleghany,Virginia,"18,549","16,161",00000-0A-000-0000,10200-0A-000-0010,http://www.co.alleghany.va.us,Covington,1822,449,36
+Amelia,Virginia,"11,313","12,745",0-0,1-1,http://www.ameliava.com,Amelia Court House,1734,359,36
+Amherst,Virginia,"25,043","32,178",0-A-0,1-A-1,http://www.countyofamherst.com,Amherst,1761,479,67
+Appomattox,Virginia,"13,469","15,255",00(A)-0,10(A)-1,http://www.appomattoxcountyva.gov/,Appomattox,1845,335,46
+Arlington,Virginia,"38,448","224,906",00-000-000,10-001-001,http://www.arlingtonva.us/,Arlington,1801,26,8628
+Augusta,Virginia,"41,634","73,912",000-00,101-10,http://www.co.augusta.va.us,Staunton,1745,971,76
+Bath,Virginia,"6,619","4,616",0-0,1-2,http://www.bathcountyva.org,Warm Springs,1790,535,9
+Bedford,Virginia,"4,326","75,773",0000,1000,http://www.co.bedford.va.us,Bedford,1753,769,91
+Bland,Virginia,"7,213","6,735",00-000-000,10-140-802,http://www.bland.org,Bland,1861,359,19
+Botetourt,Virginia,"22,498","33,002",0(0)0,1(1)1,http://www.co.botetourt.va.us,Fincastle,1770,546,60
+Brunswick,Virginia,"22,430","16,973",0-0-0,1-1-6,http://www.brunswickco.com,Lawrenceville,1732,569,30
+Buchanan,Virginia,"39,473","23,597",0,1,http://www.buchanancountyinfo.org/,Grundy,1858,504,47
+Buckingham,Virginia,"13,319","17,136",0-0-0-0-0,1-0-0-1-0,http://www.buckinghamcountyva.org/,Buckingham,1785,584,29
+Campbell,Virginia,"36,078","55,235",0,1,http://www.co.campbell.va.us,Rustburg,1782,507,109
+Caroline,Virginia,"24,845","29,298",00-0-0,10-A-1,http://www.co.caroline.va.us,Bowling Green,1728,537,55
+Carroll,Virginia,"34,696","29,883",00-0-00A,10-1-21A,http://www.CarrollCountyVA.org,Hillsville,1842,478,63
+Charles City,Virginia,"5,888","7,130",0-0,1-1,http://co.charles-city.va.us,Charles City,1634,204,35
+Charlotte,Virginia,"15,414","12,305",000-A0-00-000-000-0000,100-A0-01-020-000-0004,http://www.charlotteva.com,Charlotte Court House,1765,478,26
+Chesterfield,Virginia,"129,684","327,745",000-00-00-00-000-000,100-00-00-00-000-001,http://www.chesterfield.gov/,Chesterfield,1749,437,750
+Clarke,Virginia,"9,354","14,348",0-A-0,1-A-1,http://www.clarkecounty.gov/,Berryville,1836,178,80
+Craig,Virginia,"10,968","5,210",00-0-A,10-1-A,http://www.craigcountyva.gov/,New Castle,1851,331,16
+Culpeper,Virginia,"16,684","48,506",0–0000,1–1413,http://web.culpepercounty.gov/,Culpeper,1748,383,127
+Cumberland,Virginia,"9,255","9,841",000-A-0,100-A-1,http://www.cumberlandcounty.virginia.gov,Cumberland,1749,300,33
+Dickenson,Virginia,n/a,"15,486",0,1,http://www.dickensoncountyvirginia.org/,Clintwood,1880,334,46
+Dinwiddie,Virginia,"19,463","27,904",0-0,1-1,http://www.dinwiddieva.us,Dinwiddie,1752,507,55
+Essex,Virginia,"10,760","11,229",0-0,1-1,http://www.essex-virginia.org/,Tappahannock,1692,286,39
+Fairfax,Virginia,"360,855","1,130,924",000-0-00-00-0000-A,100-1-01-00-0023-A,http://www.fairfaxcounty.gov,Fairfax,1742,406,2784
+Fauquier,Virginia,"34,382","67,207",0000-00-0000-00,1290-60-0000-09,http://www.fauquiercounty.gov,Warrenton,1759,651,103
+Floyd,Virginia,"14,636","15,528",00-0,10-1,http://www.floydcova.org/,Floyd,1831,381,41
+Fluvanna,Virginia,"16,088","25,977",0-0-0,1-1-2001,http://www.co.fluvanna.va.us,Palmyra,1777,290,90
+Franklin,Virginia,"47,730","56,335",0.0-000,1.1-109,http://www.franklincountyva.gov/,Rocky Mount,1785,712,79
+Frederick,Virginia,"45,426","81,319",00-A-0,10-A-1,http://www.co.frederick.va.us,Winchester,1743,416,196
+Giles,Virginia,"13,872","16,925",0-0,1-2,http://www.gilescounty.org,Pearisburg,1806,360,47
+Gloucester,Virginia,"25,418","36,834",00000CDM,13786CDM,http://gloucesterva.info/,Gloucester,1651,288,128
+Goochland,Virginia,"15,841","21,626",0-0-0,1-1-2001,http://www.co.goochland.va.us,Goochland,1727,290,75
+Grayson,Virginia,"18,072","15,161",00-A-0,10-A-1,http://www.graysoncountyva.com,Independence,1793,446,34
+Greene,Virginia,"10,748","18,804",0-A-0,1-A-1,http://www.gcva.us,Stanardsville,1838,157,120
+Greensville,Virginia,"9,770","11,886",0-0,1-1,http://www.greensvillecountyva.gov,Emporia,1780,297,40
+Halifax,Virginia,"38,384","35,401",0,1,http://www.halifaxcountyva.gov/,Halifax,1752,830,43
+Hanover,Virginia,"47,898","101,330",0000-00-0000,6799-54-5391,http://www.co.hanover.va.us,Hanover,1720,474,214
+Henrico,Virginia,"113,828","318,611",00A000,12A234,http://www.co.henrico.va.us,Henrico,1611,245,1301
+Henry,Virginia,"54,981","52,617",000000000,100000000,http://www.henrycountyva.gov/,Martinsville,1777,384,137
+Highland,Virginia,"4,200","2,215",00-0-A,10-1-A,http://www.highlandcova.org/,Monterey,1847,416,5
+Isle of Wight,Virginia,"21,094","35,656",00-00-000,10-01-2001,http://www.co.isle-of-wight.va.u,Isle Of Wight,1634,363,98
+James City,Virginia,"34,695","70,516",00-0-00-0-0/00000,10-0-04-9-4/10004,http://www.jccegov.com/,Williamsburg,1634,179,393
+King and Queen,Virginia,"7,756","7,130",0000-000L-000,1623-133L-404,http://www.kingandqueenco.net,King And Queen Court House,1691,326,22
+King George,Virginia,"13,388","24,926",0-0,1-1,http://www.king-george.va.us,King George,1721,188,133
+King William,Virginia,"13,530","16,097",0-0,1-1,http://www.kingwilliamcounty.us/,King William,1702,286,56
+Lancaster,Virginia,"15,716","11,148",0-000,1-344,http://www.lancova.com,Lancaster,1651,231,48
+Lee,Virginia,"63,317","25,185",00 (A) 0B,10 (A) 3B,http://www.leecova.org/,Jonesville,1793,437,58
+Loudoun,Virginia,"121,181","349,679",000- – – 0,100- – – 4,http://www.loudoun.gov/,Leesburg,1757,521,671
+Louisa,Virginia,"35,030","33,945",0-0,1-1,http://www.louisa-county.com/,Louisa,1742,511,66
+Lunenburg,Virginia,"15,961","12,527",0,1,http://www.lunenburgva.org/,Lunenburg,1746,432,29
+Madison,Virginia,"9,418","13,200",0-0,1-1,http://www.madisonco.virginia.gov,Madison,1793,322,41
+Mathews,Virginia,"12,644","8,897",0-0-0,1-1-2001,http://www.co.mathews.va.us,Mathews,1791,252,35
+Mecklenburg,Virginia,"34,213","31,426",00,10,http://www.mecklenburgva.com,Boydton,1765,679,46
+Middlesex,Virginia,"14,866","10,762",0-0,1-1,http://www.co.middlesex.va.us,Saluda,1673,211,51
+Montgomery,Virginia,"43,712","96,207",000000,100000,http://www.montva.com,Christiansburg,1777,389,247
+Nelson,Virginia,"18,270","14,789",0-0-0,1-1-2001,http://www.nelsoncounty.com/,Lovingston,1808,474,31
+New Kent,Virginia,"17,769","19,507",0 0,1 1,http://www.co.new-kent.va.us/,New Kent,1654,223,87
+Northampton,Virginia,"16,107","12,125",0-0-A,1-1-A,http://www.co.northampton.va.us,Eastville,1634,795,15
+Northumberland,Virginia,"20,496","12,200",0-0-0-0-0-0,1-0-0-0-2-0,http://www.co.northumberland.va.us,Heathsville,1648,286,43
+Nottoway,Virginia,"16,268","15,773",0-0,1-1,http://www.nottoway.org/,Nottoway,1789,316,50
+Orange,Virginia,"21,753","34,689",000-00,111-31,http://orangecountyva.gov/,Orange,1734,343,101
+Page,Virginia,"25,001","23,821",0000-0-0,0100-1-1,http://pagecounty.virginia.gov/,Luray,1831,314,76
+Patrick,Virginia,"23,185","18,368",0-NM-0000,1-NM-1641,http://www.co.patrick.va.us,Stuart,1791,486,38
+Pittsylvania,Virginia,"60,960","62,426",0000-00-0000,1325-69-4102,http://www.pittgov.org/home.htm,Chatham,1767,978,64
+Powhatan,Virginia,"15,124","28,259",000-0A,004-1A,http://www.powhatanva.gov,Powhatan,1777,262,108
+Prince Edward,Virginia,"12,913","22,802",00-A-0-00,10-A-8-11,http://www.co.prince-edward.va.us/,Farmville,1754,354,64
+Prince George,Virginia,"13,693","37,253",000-00-00-00B-0,110-01-00-00B-1,http://www.princegeorgeva.org/,Prince George,1703,282,132
+Prince William,Virginia,"147,624","438,580",0-0-0000,1-1-1069,http://www.pwcgov.org/,Manassas,1731,348,1259
+Pulaski,Virginia,"27,005","34,507",00000,10000,http://www.pulaskicounty.org,Pulaski,1839,330,105
+Rappahannock,Virginia,n/a,"7,478",0-0,1-1,http://www.rappahannockcountyva.gov,Washington,1833,267,28
+Richmond,Virginia,"74,306","8,953",00(0)A,10(1)A,http://www.co.richmond.va.us,Warsaw,1692,216,41
+Roanoke,Virginia,"46,502","93,524",0000000,1010001,http://www.roanokecountyva.gov,Roanoke,1838,251,372
+Rockbridge,Virginia,"28,822","22,307",00-0-0,10-1-1,http://www.co.rockbridge.va.us,Lexington,1778,601,37
+Rockingham,Virginia,"47,789","77,741",0-A-0,1-A-1,http://www.rockinghamcountyva.gov,Harrisonburg,1778,853,91
+Russell,Virginia,"33,092","28,264",000L0000A,102L1100A,n/a,Lebanon,1786,477,59
+Scott,Virginia,"21,927","22,640",00-0-0,10-1-1,http://www.scottcountyva.com,Gate City,1814,539,42
+Shenandoah,Virginia,"38,387","42,684",000-00-000,100-01-031,http://www.shenandoahcountyva.us/,Woodstock,1772,512,83
+Smyth,Virginia,"35,961","31,652",00-0-0,10-1-1,http://www.smythcounty.org/,Marion,1832,452,70
+Southampton,Virginia,"14,950","18,128",0-0,1-1,http://www.southamptoncounty.org/,Courtland,1749,602,30
+Spotsylvania,Virginia,"63,773","127,348",00B0-000-,10B2-213-,http://www.spotsylvania.va.us,Spotsylvania,1721,414,307
+Stafford,Virginia,"55,922","136,788",00-0,10-1,http://www.co.stafford.va.us,Stafford,1664,280,489
+Surry,Virginia,"6,597","6,765",0-0,1-1,http://www.surrycountyva.gov,Surry,1652,310,22
+Sussex,Virginia,"10,471","11,810",0-0-0,1-1-1,http://www.sussexcountyva.gov/,Sussex,1754,493,24
+Tazewell,Virginia,"31,762","44,103",000-A-0000,100-A-0001,http://www.tazewellcounty.org/,Tazewell,1800,520,85
+Warren,Virginia,"27,854","38,699",0-0,1-1,http://www.warrencountyva.net,Front Royal,1836,217,217
+Washington,Virginia,"39,255","54,907",000-0-0,0100-1-1,http://www.washcova.com,Abingdon,1777,566,97
+Westmoreland,Virginia,"27,910","17,612",0-0,1-1,http://www.westmoreland-county.org,Montross,1653,253,70
+Wise,Virginia,"38,123","40,589",R000000,R020145,http://www.wisecounty.org/,Wise,1856,405,100
+Wythe,Virginia,"33,422","29,344",00-00B,10-22B,http://www.wytheco.org,Wytheville,1790,465,63
+York,Virginia,"26,681","66,269",00-00-00-0000,10-01-00-0001,http://www.yorkcounty.gov,Yorktown,1634,215,308
+Fairfax,Virginia,"25,220","148,892",000000-00,100275-00,http://www.fairfaxcounty.gov,Fairfax,1742,406,2784
+Washington,Virginia,"13,765","17,341",0-0-0-0-0,1-1-1-4-5,http://www.washcova.com,Abingdon,1777,566,97
+"Buena Vista, City of",Virginia,"19,711","6,680",0000,1023,n/a,,,,
+"Charlottesville, City of",Virginia,"13,538","44,349",000-000-000,100-001-000,n/a,,,,
+"Chesapeake, City of",Virginia,"87,614","230,571",0000000000000,1020000000011,n/a,,,,
+"Colonial Heights, City of",Virginia,"7,654","17,634",0000-00-00-000,1000-01-00-001,n/a,,,,
+"Covington, City of",Virginia,"6,607","5,818",00A-00-0000-00000,12A-01-0000-00019,n/a,,,,
+"Danville, City of",Virginia,"25,762","42,907",00000,11744,n/a,,,,
+"Emporia, City of",Virginia,"5,450","5,588",000-0-0-00A,100-1-0-29A,n/a,,,,
+"Fairfax, City of",Virginia,"360,855","23,973",000-0-00-00-0000-A,100-1-01-00-0023-A,n/a,,,,
+"Falls Church, City of",Virginia,"3,538","13,508",County Not Found on Realquest,County Not Found on Realquest,n/a,,,,
+"Franklin, City of",Virginia,"47,730","8,638",000-000-0A,101-014-4A,http://www.franklincountyva.gov/,Rocky Mount,1785,712,79
+"Fredericksburg, City of",Virginia,"8,437","28,132",00-A-0,10-A-1,n/a,,,,
+"Galax, City of",Virginia,"3,768","7,035",000000000000,000000050003,n/a,,,,
+"Hampton, City of",Virginia,"51,136","136,699",00000000,10000002,n/a,,,,
+"Harrisonburg, City of",Virginia,"15,206","51,395",000-A-0-000-B-0,100-A-1-100-B-3,n/a,,,,
+"Hopewell, City of",Virginia,"10,441","22,163",000-0000,100-0005,n/a,,,,
+"Lexington, City of",Virginia,"3,344","7,170",00-0-0,11-1-1,n/a,,,,
+"Lynchburg, City of",Virginia,"31,536","78,014",000-00-000,100-01-002,,,,,
+"Manassas, City of",Virginia,"13,046","41,705",County Not Found on Realquest,County Not Found on Realquest,,,,,
+"Manassas Park, City of",Virginia,n/a,"16,149",County Not Found on Realquest,County Not Found on Realquest,,,,,
+"Martinsville, City of",Virginia,"11,476","13,755",County Not Found on Realquest,County Not Found on Realquest,,,,,
+"Newport News, City of",Virginia,"54,059","182,020",000.00-00-00,100.00-01-02,,,,,
+"Norfolk, City of",Virginia,"68,645","246,139",00000000,10000001,,,,,
+"Norton, City of",Virginia,"4,175","4,017",No record found,No record found,,,,,
+"Petersburg, City of",Virginia,"15,032","32,538",000-00-0000,100-01-0001,,,,,
+"Poquoson, City of",Virginia,"5,635","12,104",County Not Found on Realquest,County Not Found on Realquest,,,,,
+"Portsmouth, City of",Virginia,"36,533","96,205",0000-0000,1000-0009,,,,,
+"Radford, City of",Virginia,"10,423","17,184",0-0-0,1-1-1,,,,,
+"Richmond, City of",Virginia,"74,306","214,114",No record found,No record found,http://www.co.richmond.va.us,Warsaw,1692,216,41
+"Roanoke, City of",Virginia,"46,502","98,465",0000000,1010001,http://www.roanokecountyva.gov,Roanoke,1838,251,372
+"Salem, City of",Virginia,"10,640","25,299",00-0-0.0,10-1-1.1,,,,,
+"Staunton, City of",Virginia,"11,549","24,350",00000,10000,,,,,
+"Suffolk, City of",Virginia,"40,154","85,728",000000000,100002500,,,,,
+"Virginia Beach, City of",Virginia,"134,769","448,479",000-000-00000-000,138-669-76740-000,,,,,
+"Waynesboro, City of",Virginia,"14,838","21,263",000000,104379,,,,,
+"Williamsburg, City of",Virginia,"4,573","15,206",000-00-00-0000,148-91-66-2240,,,,,
+"Winchester, City of",Virginia,"9,976","27,216",000-00-A0,110-02-A2,,,,,

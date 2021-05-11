@@ -1,0 +1,60 @@
+0,1,2,3,4,5,6,7,8,9,10
+County / Parish / Borough,State,# of properties*,Population 2015*,APN Format*,Example APN*,Website,Seat,Year Organized,Square Miles*,People / SQML*
+Alameda,California,"469,919","1,578,891",0-0000-000,1-0000-000,http://www.acgov.org,Oakland,"1,853","1,853",1922
+Alpine,California,"2,305","1,159",00-000-000-0-0,11-102-100-3-0,http://www.alpinecountyca.gov/,Markleeville,"1,864",743,2
+Amador,California,"23,929","36,519",00-000-000-00,10-150-023-00,http://www.co.amador.ca.us,Jackson,"1,854",606,60
+Butte,California,"94,149","222,090",000-000- -000,100-051- -000,http://www.buttecounty.net,Oroville,"1,850","1,677",132
+Calaveras,California,"43,591","44,515",000-000-000-000,105-023-009-000,http://www.co.calaveras.ca.us,San Andreas,1850,"1,037",43
+Colusa,California,"14,726","21,358",000-000-000-000,101-086-002-501,http://www.countyofcolusa.org/,Colusa,1850,"1,156",18
+Contra Costa,California,"495,634","1,094,205",000-000-000-0,100-010-001-4,http://www.co.contra-costa.ca.us,Martinez,1850,804,1361
+Del Norte,California,"16,165","27,873",000-000-00,101-010-06,http://www.co.del-norte.ca.us,Crescent City,1857,"1,230",23
+El Dorado,California,"108,990","181,737",000-000-00-000,100-010-02-100,http://www.edcgov.us/,Placerville,1850,"1,786",102
+Fresno,California,"301,260","955,272",000-000-00,105-130-08,http://www.co.fresno.ca.us,Fresno,1856,"6,011",159
+Glenn,California,"15,099","27,940",00-00-0-000-0-0,12-10-8-000-7-0,http://www.countyofglenn.net,Willows,1891,"1,327",21
+Humboldt,California,"72,389","134,493",000-000-000-000,100-011-001-000,http://www.humboldtgov.org/,Eureka,1853,"4,052",33
+Imperial,California,"86,084","176,584",000-000-000-000,100-045-032-000,http://www.co.imperial.ca.us,El Centro,1907,"4,482",39
+Inyo,California,"17,363","18,467",00-000-00,10-070-01,http://www.inyocounty.us,Independence,1866,"10,227",2
+Kern,California,"403,919","864,124",000-000-00-00,100-010-03-00,http://www.co.kern.ca.us,Bakersfield,1866,8163,106
+Kings,California,"48,753","150,960",000-000-000-000,100-190-088-000,http://www.countyofkings.com,Hanford,1893,1392,108
+Lake,California,"64,120","63,860",000-000-00-00,102-361-51-00,http://www.co.lake.ca.us,Lakeport,1861,1329,48
+Lassen,California,"38,508","32,163",000-000-00-00,101-010-01-11,http://www.co.lassen.ca.us,Susanville,1864,1864,7
+Los Angeles,California,"2,400,706",########,0000-000-000,1001-043-047,http://portal.lacounty.gov,Los Angeles,1850,4751,2108
+Madera,California,"57,214","152,389",000-000-000,103-413-004,http://www.madera-county.com,Madera,1893,2153,71
+Marin,California,"96,206","258,365",000-000-00,100-010-01,http://www.marincounty.org/,San Rafael,1850,828,312
+Mariposa,California,"15,301","17,755",000-000-0000,101-135-0000,http://www.mariposacounty.org,Mariposa,1850,1463,12
+Mendocino,California,"60,222","87,192",000-000-00-00,100-011-01-01,http://www.co.mendocino.ca.us,Ukiah,1850,3878,22
+Merced,California,"86,039","263,228",000-000-000-000,131-014-005-000,http://www.co.merced.ca.us,Merced,1855,1979,133
+Modoc,California,"33,211","9,147",000-000-00-00,101-747-07-11,http://www.co.modoc.ca.us/,Alturas,1874,"4,203",2
+Mono,California,"24,614","14,074",00 – 0-00 0,10 – 0-41 0,http://www.monocounty.ca.gov/,Bridgeport,1861,3132,4
+Monterey,California,"120,934","428,826",000-000-000-000,101-011-003-000,http://www.co.monterey.ca.us,Salinas,1850,3771,114
+Napa,California,"49,584","140,326",000-000-000-000,100-003-001-000,http://www.countyofnapa.org,Napa,1850,789,178
+Nevada,California,"67,819","98,200",00-000-00-000,11-020-10-000,http://www.mynevadacounty.com,Nevada City,1851,974,101
+Orange,California,"685,353","3,114,363",000-000-00,100-013-09,http://www.ocgov.com,Santa Ana,1889,948,3285
+Placer,California,"173,153","367,309",000-000-000-000,100-010-017-000,http://www.placer.ca.gov,Auburn,1851,1502,244
+Plumas,California,"26,293","18,859",000-000-000-000,100-010-003-000,http://www.countyofplumas.com,Quincy,1854,2613,7
+Riverside,California,"868,951","2,292,507",000-000-000,101-020-001,http://www.countyofriverside.us/,Riverside,1893,7303,314
+Sacramento,California,"447,244","1,462,131",000-0000-000-0000,112-0021-018-0000,http://www.saccounty.net,Sacramento,1850,994,1471
+San Benito,California,"20,622","57,600",000-000-000-000,108-170-018-000,http://www.san-benito.ca.us,Hollister,1874,1390,41
+San Bernardino,California,"818,058","2,088,371",0000-000-00-0000,1000-011-08-0000,http://www.sbcounty.gov,San Bernardino,1853,20105,104
+San Diego,California,"1,064,942","3,211,252",000-000-00-00,101-010-01-00,http://www.sdcounty.ca.gov,San Diego,1850,4526,710
+"San Francisco, City and of",California,"277,468","837,442",0000-000,1000-001,http://sfgov.org/,San Francisco,1850,232,3611
+San Joaquin,California,"221,017","704,379",000-000-00,100-020-01,http://www.sjgov.org,Stockton,1850,1426,494
+San Luis Obispo,California,"125,697","276,443",000-000-000,100-535-205,http://www.slocounty.ca.gov,San Luis Obispo,1850,3616,76
+San Mateo,California,"234,017","747,373",000-000-000,100-010-010,http://www.co.sanmateo.ca.us,Redwood City,1856,741,1009
+Santa Barbara,California,"128,391","435,697",000-000-000,101-010-004,http://www.countyofsb.org,Santa Barbara,1850,3789,115
+Santa Clara,California,"431,765","1,862,041",000-00-000,101-01-001,http://www.sccgov.org,San Jose,1850,1304,1428
+Santa Cruz,California,"96,762","269,419",000-000-00-000,100-011-11-000,http://www.co.santa-cruz.ca.us,Santa Cruz,1850,607,444
+Shasta,California,"97,386","178,980",000-000-000-000,100-210-510-021,http://www.co.shasta.ca.us,Redding,1850,3847,47
+Sierra,California,"5,070","3,047",000-000-000-0,117-026-004-1,http://www.sierracounty.ca.gov/,Downieville,1852,962,3
+Siskiyou,California,"53,465","43,799",000-000-000,100-021-030,http://www.co.siskiyou.ca.us,Yreka,1852,6347,7
+Solano,California,"154,746","424,788",0000-000-000,1000-010-000,http://www.solanocounty.com,Fairfield,1850,906,469
+Sonoma,California,"186,669","495,025",000-000-000,100-010-004,http://www.sonoma-county.org,Santa Rosa,1850,1768,280
+Stanislaus,California,"180,217","525,491",000-000-000-000,101-002-001-000,http://www.co.stanislaus.ca.us/,Modesto,1854,1515,347
+Sutter,California,"34,803","95,350",00-000-000,10-010-002,http://www.co.sutter.ca.us,Yuba City,1850,608,608
+Tehama,California,"44,838","63,057",000-000-000-000,100-010-001-000,http://www.co.tehama.ca.us/,Red Bluff,1856,1856,21
+Trinity,California,"16,639","13,448",000-000-00-00,101-500-39-00,http://www.trinitycounty.org,Weaverville,1850,3208,4
+Tulare,California,"154,156","454,143",000-000-000-000,100-010-025-000,http://www.co.tulare.ca.us,Visalia,1852,4839,94
+Tuolumne,California,"46,962","53,874",000-000-00-00,100-290-20-00,http://www.tuolumnecounty.ca.gov,Sonora,1850,2274,24
+Ventura,California,"260,766","839,620",000-0-000-000,100-0-010-065,http://www.countyofventura.org,Ventura,1872,2208,380
+Yolo,California,"62,655","204,593",00 -2000- 00- 0,10 -202- 03- 1,http://www.yolocounty.org,Woodland,1850,1024,200
+Yuba,California,"32,002","73,340",00–000–00-0,10–055–00-1,http://www.co.yuba.ca.us,Marysville,1850,644,114

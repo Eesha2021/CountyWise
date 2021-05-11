@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7,8,9,10
+County / Parish / Borough,State,# of properties*,Population 2015*,APN Format*,Example APN*,Website,Seat,Year Organized,Square Miles*,People / SQML*
+Belknap,New Hampshire,"39,945","60,179",000-000-000-000,101-001-002-000,http://www.belknapcounty.org,Laconia,1840,469,128
+Carroll,New Hampshire,"50,006","47,499",0000000,1000000,http://www.carrollcountynh.net/,Ossipee,1840,992,48
+Cheshire,New Hampshire,"41,247","76,610",0000-000,1072-456,http://www.co.cheshire.nh.us/,Keene,1769,729,105
+Coos,New Hampshire,"23,269","31,997",00000-000-000,10100-202-018,http://www.cooscountynh.us,Lancaster,1803,1830,17
+Grafton,New Hampshire,"56,965","89,629",00000-000000-000000-000000,18740-000015-000929-000002,http://www.co.grafton.nh.us,North Haverhill,1769,1750,51
+Hillsborough,New Hampshire,"132,587","403,985",00-00-0,10-62-2,http://www.hillsboroughcountynh.org/,Manchester and Nashua,1769,892,453
+Merrimack,New Hampshire,"61,545","146,849",00-0000-000,10-1238-700,http://www.merrimackcounty.net,Concord,1823,956,154
+Rockingham,New Hampshire,"105,505","299,134",000000,100334,http://www.co.rockingham.nh.us,Brentwood,1769,795,376
+Strafford,New Hampshire,"43,353","124,593",00-000-0,10-111-1,http://www.co.strafford.nh.us/,Dover,1769,384,324
+Sullivan,New Hampshire,"24,680","42,984",00000-000000,11380-100006,http://www.sullivancountynh.gov,Newport,1827,552,78

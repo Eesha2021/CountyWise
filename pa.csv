@@ -1,0 +1,69 @@
+0,1,2,3,4,5,6,7,8,9,10
+County / Parish / Borough,State,# of properties*,Population 2015*,APN Format*,Example APN*,Website,Seat,Year Organized,Square Miles*,People / SQML*
+Adams,Pennsylvania,"44,755","101,546",00-000-0000-000,10-001-0001-000,http://www.adamscounty.us,Gettysburg,1800,522,195
+Allegheny,Pennsylvania,"579,525","1,231,527",0000-A-00000-0000-00,1000-A-00236-0000-00,http://www.county.allegheny.pa.us,Pittsburgh,1788,745,1654
+Armstrong,Pennsylvania,n/a,"68,107",00-0-000000,10-0-000992,http://www.co.armstrong.pa.us/,Kittanning,1800,664,103
+Beaver,Pennsylvania,"89,423","170,115",00-000-0000.000,10-001-0100.002,http://www.beavercountypa.gov/,Beaver,1800,444,383
+Bedford,Pennsylvania,"21,572","49,055",000-000000,100-008048,http://www.bedfordcountypa.org/,Bedford,1771,"1,017",48
+Berks,Pennsylvania,"155,717","413,521",00-0000-00-00-0000,10-5316-09-05-5962,http://www.co.berks.pa.us,Reading,1751,866,478
+Blair,Pennsylvania,"63,989","126,314",0.0-RR-0-0-0,1.0-RR-6-2-1,http://www.blairco.org/,Hollidaysburg,1846,527,240
+Bradford,Pennsylvania,"34,233","62,316",00-000.00-000-000-000,11-071.00-023-001-000,http://www.bradfordcountypa.org,Towanda,1810,"1,161",54
+Bucks,Pennsylvania,"233,182","626,976",00 000 000 000 000,10 004 081 001 018,http://www.buckscounty.org/,Doylestown,1682,622,1008
+Butler,Pennsylvania,"92,182","185,476",000-0F000-0-0000,100-1F159-1-0000,http://www.co.butler.pa.us,Butler,1800,795,233
+Cambria,Pennsylvania,"84,401","140,499",000-000000,010-009032,http://www.co.cambria.pa.us/,Ebensburg,1804,694,203
+Cameron,Pennsylvania,"173,318","4,886",0-00-0-000-000-EX-000,1-27-0-064-000-EX-000,http://www.cameroncountypa.com/,Emporium,1860,398,12
+Carbon,Pennsylvania,"47,414","64,786",0-00-A0,1-32-A1,http://www.carboncounty.com,Jim Thorpe,1843,387,167
+Centre,Pennsylvania,"58,808","155,403",00-000-000-0000,10-000-001-0000,http://www.co.centre.pa.us,Bellefonte,1800,"1,113",140
+Chester,Pennsylvania,"182,120","509,468",00-000-0000.0000,10-001-0001.0000,http://www.chesco.org,West Chester,1682,759,671
+Clarion,Pennsylvania,n/a,"39,155",000-000000,005-002155,http://www.co.clarion.pa.us/,Clarion,1839,610,64
+Clearfield,Pennsylvania,"68,756","81,174",00-K00-000-00000-00000,41-K08-201-00020-10909,http://www.clearfieldco.org/,Clearfield,1804,"1,154",70
+Clinton,Pennsylvania,"32,875","39,954",0000-N-00000-0000-00,1320-N-00093-0000-00,http://www.clintoncountypa.com/,Lock Haven,1839,897,45
+Columbia,Pennsylvania,"35,963","66,797",000-00000-0-0000,540-73695-0-0000,http://www.columbiapa.org,Bloomsburg,1813,490,136
+Crawford,Pennsylvania,"58,450","87,376",00-0-000000,11-0-000001,http://www.crawfordcountypa.net,Meadville,1800,"1,038",84
+Cumberland,Pennsylvania,"100,757","241,212",00-00-0000-000,26-24-0809-309,http://www.ccpa.ne,Carlisle,1750,550,438
+Dauphin,Pennsylvania,"116,494","270,937",00-000-000,43-045-001,http://www.dauphincounty.org,Harrisburg,1785,558,485
+Delaware,Pennsylvania,"206,705","561,973",00/0/0/00-0F,16/4/1/48-1F,http://www.co.delaware.pa.us,Media,1789,191,2948
+Elk,Pennsylvania,n/a,"31,479",00-00-000-0000,10-10-003-9252,http://www.co.elk.pa.us/,Ridgway,1843,832,38
+Erie,Pennsylvania,"358,051","280,294",00-000-000.0-000.00,18-051-030.0-208.00,http://www.eriecountypa.gov/,Erie,1800,"1,558",180
+Fayette,Pennsylvania,"23,309","134,999",00-00-0000,10-01-2001,http://www.co.fayette.pa.us,Uniontown,1783,798,169
+Forest,Pennsylvania,"11,498","7,631",00000,10000,http://www.co.forest.pa.us,Tionesta,1848,430,18
+Franklin,Pennsylvania,"65,958","152,085",00-000-000A-000,28-015-001A-000,http://www.franklincountypa.gov,Chambersburg,1784,773,197
+Fulton,Pennsylvania,"10,475","14,670",00-000-000-000,09-022-137-001,http://www.co.fulton.pa.us/,McConnellsburg,1850,438,33
+Greene,Pennsylvania,"29,185","37,838",0000000000,9004020012,http://www.co.greene.pa.us,Waynesburg,1796,578,65
+Huntingdon,Pennsylvania,"29,374","45,694",00-00-00,19-03-14,http://www.huntingdoncounty.net/,Huntingdon,1787,889,51
+Indiana,Pennsylvania,n/a,"87,745",00-000-000.00,02-001-128.00,http://www.countyofindiana.org,Indiana,1803,834,105
+Jefferson,Pennsylvania,"32,356","44,966",0000000000000,2190401000201,http://www.jeffersoncountypa.com/,Brookville,1804,657,68
+Juniata,Pennsylvania,"13,359","24,768",00-000-000M-0000,11-002-011M-0000,http://www.co.juniata.pa.us/,Mifflintown,1831,394,63
+Lackawanna,Pennsylvania,n/a,"213,931",000000,103410,http://www.lackawannacounty.org,Scranton,1878,465,460
+Lancaster,Pennsylvania,"187,865","529,600",000-00000-0-0000,320-92030-0-0000,http://www.co.lancaster.pa.us/,Lancaster,1729,984,538
+Lawrence,Pennsylvania,"58,112","89,333",00-000000,10-000100,http://www.co.lawrence.pa.us/,New Castle,1849,363,246
+Lebanon,Pennsylvania,n/a,"135,486",00-0000000-000000-0000,03-2337348-369225-0000,http://www.lebcounty.org,Lebanon,1815,362,374
+Lehigh,Pennsylvania,"123,878","355,092",0-00—-000-000000,1-00—-000-000022,http://www.lehighcounty.org,Allentown,1812,348,1020
+Luzerne,Pennsylvania,"176,484","320,103",00-F0SE0-000-00A-000,41-F9SE4-029-02A-000,http://www.luzernecounty.org,Wilkes-Barre,1786,906,353
+Lycoming,Pennsylvania,"51,003","116,754",00-000.0-0000.00-000,10-001.0-0100.00-000,http://www.lyco.org/,Williamsport,1795,"1,244",94
+McKean,Pennsylvania,n/a,"42,979",00-000-000.0-000.00,31-009-016.8-003.60,http://www.mckeancountypa.org/,Smethport,1804,984,44
+Mercer,Pennsylvania,"57,446","115,195",00-000000,14-604340,http://www.mcc.co.mercer.pa.us/,Mercer,1800,683,169
+Mifflin,Pennsylvania,"24,076","46,616",0-0-00,7-2-70,http://www.co.mifflin.pa.us,Lewistown,1789,415,112
+Monroe,Pennsylvania,"110,861","167,148",00-00-00000-00,29-00-00070-02,http://www.monroecountypa.gov,Stroudsburg,1836,617,271
+Montgomery,Pennsylvania,"301,516","812,376",00-00-00000-000,10-00-00004-004,http://www.montcopa.org/,Norristown,1784,487,1667
+Montour,Pennsylvania,n/a,"18,541",0 0 00,1 6 26,http://www.montourco.org/,Danville,1850,132,140
+Northampton,Pennsylvania,"120,292","299,791",No records found,No records found,http://www.northamptoncounty.org/,Easton,1752,377,794
+Northumberland,Pennsylvania,"52,201","94,076",No records found,No records found,http://www.northumberlandco.org/,Sunbury,1772,478,197
+Perry,Pennsylvania,"24,597","45,562",000-000.00-000.000,100-026.00-039.000,http://www.perryco.org/,New Bloomfield,1820,556,82
+Philadelphia,Pennsylvania,"546,583","1,553,165",00-0000000,10-1000302,http://www.phila.gov/,Philadelphia,1682,143,10884
+Pike,Pennsylvania,"63,613","56,591",000000,100005,http://www.pikepa.org/,Milford,1814,567,100
+Potter,Pennsylvania,"18,951","17,497",00-0,10-1,http://www.pottercountypa.net/,Coudersport,1804,"1,082",16
+Schuylkill,Pennsylvania,"89,853","146,920",00-0000000,88-8301329,http://www.co.schuylkill.pa.us/,Pottsville,1811,783,188
+Snyder,Pennsylvania,"23,880","39,865",00-00-000,10-01-001,http://www.snydercounty.org,Middleburg,1855,332,120
+Somerset,Pennsylvania,"21,170","76,520",000000000,410010150,http://www.co.somerset.pa.us,Somerset,1795,"1,081",71
+Sullivan,Pennsylvania,"7,340","6,351",00-000-0000,10-028-0001,http://www.sullivancounty-pa.us,Laporte,1847,452,14
+Susquehanna,Pennsylvania,n/a,"42,286",000.00-0-000.00-000,054.10-1-039.00-000,http://www.susqco.com/,Montrose,1810,832,51
+Tioga,Pennsylvania,"26,868","42,463",00-00D00-000.-000,35-03D00-001.-001,http://www.tiogacountypa.us,Wellsboro,1804,"1,137",37
+Union,Pennsylvania,"20,522","44,867",00-0-000000,53-0-042064,http://www.unionco.org/,Lewisburg,1813,318,141
+Venango,Pennsylvania,"35,953","53,907",00-000-000-000,10-101-001-000,http://www.co.venango.pa.us/,Franklin,1800,683,79
+Warren,Pennsylvania,"22,413","40,885",WN-000-000000-000,WN-576-836500-000,http://www.warren-county.net,Warren,1800,899,46
+Washington,Pennsylvania,"121,889","208,206",0000000000000000,6000070000000110,http://www.co.washington.pa.us,Washington,1781,861,242
+Wayne,Pennsylvania,"59,345","51,548",00-00-00000-00,36-02-00781-00,http://www.waynecountypa.gov,Honesdale,1798,751,69
+Westmoreland,Pennsylvania,"188,578","362,437",00-00-00-0-000,54-08-11-0-197,http://www.co.westmoreland.pa.us,Greensburg,1773,"1,036",350
+Wyoming,Pennsylvania,"16,266","28,003",00-E00SE0-000-000-000,67-E10SE3-003-004-000,http://www.wycopa.org/,Tunkhannock,1842,405,69
+York,Pennsylvania,"170,843","438,965",00-000-JL-0000-00-M0000,35-000-JL-0082-00-M0049,http://www.yorkcountypa.gov,York,1749,911,482

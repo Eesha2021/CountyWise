@@ -1,0 +1,37 @@
+County / Parish / Borough,State,# of properties*,Population 2015*,APN Format*,Example APN*,Website,Seat,Year Organized,Square Miles*,People / SQML*
+Baker,Oregon,"16,205","16,018",0,1, http://www.bakercounty.org,Baker City,1862,"3,088",5
+Benton,Oregon,"33,865","86,591",000000,100002, https://www.co.benton.or.us/,Corvallis,1847,679,128
+Clackamas,Oregon,"152,425","388,263",0000000,1455650, http://www.co.clackamas.or.us,Oregon City,1843,"1,883",206
+Clatsop,Oregon,"32,525","37,244",0000,1000, http://www.co.clatsop.or.us,Astoria,1844,"1,084",34
+Columbia,Oregon,"28,580","49,344",000000000000000000,101032120120010600, http://www.co.columbia.or.us,Saint Helens,1854,688,72
+Coos,Oregon,"41,640","62,282",0000000000,1000000020,http://www.co.coos.or.us,Coquille,1853,"1,806",34
+Crook,Oregon,"16,959","20,815",000000,141509, http://www.co.crook.or.us,Prineville,1882,"2,987",7
+Curry,Oregon,"19,323","22,339",No Records Found,No Records Found, http://www.co.curry.or.us/,Gold Beach,1855,"1,988",11
+Deschutes,Oregon,"98,712","165,954",000000,100001, http://www.deschutes.org/,Bend,1916,"3,055",54
+Douglas,Oregon,"70,106","106,940",00000000,10000000, http://www.co.douglas.or.us,Roseburg,1852,"5,134",21
+Gilliam,Oregon,"3,805","1,947",0,1, http://www.co.gilliam.or.us/,Condon,1885,"1,223",2
+Grant,Oregon,"7,802","7,283",00S00000,10S26100,http://www.gcoregonlive2.com/,Canyon City,1864,"4,529",2
+Harney,Oregon,"12,999","7,146",0,1,http://www.co.harney.or.us,Burns,1889,"10,226",1
+Hood River,Oregon,"11,406","22,675",No Records Found,No Records Found, http://www.co.hood-river.or.us,Hood River,1908,533,43
+Jackson,Oregon,"93,102","208,545",00000000,10000016, http://jacksoncountyor.org/,Medford,1852,"2,802",74
+Jefferson,Oregon,"12,752","21,145",000000-00-00000,100800-00-00100, http://www.co.jefferson.or.us/,Madras,1914,"1,791",12
+Josephine,Oregon,"42,000","83,306",000000,149000,http://www.co.josephine.or.us,Grants Pass,1856,"1,642",51
+Klamath,Oregon,"61,236","65,910",No Records Found,No Records Found, http://www.klamathcounty.org/,Klamath Falls,1882,"6,136",11
+Lake,Oregon,"18,034","7,820",0,1, http://www.lakecountyor.org,Lakeview,1874,"8,358",1
+Lane,Oregon,"151,753","356,212",0000000,1000007, http://www.co.lane.or.us/,Eugene,1851,"4,722",75
+Lincoln,Oregon,"46,627","46,350",M000000,M100032, http://www.co.lincoln.or.us/,Newport,1893,"1,194",39
+Linn,Oregon,"52,095","118,765",0,1, http://www.co.linn.or.us/,Albany,1847,"2,309",51
+Malheur,Oregon,"20,476","30,479",0,1,http://www.malheurco.org,Vale,1887,"9,930",3
+Marion,Oregon,"112,486","323,614",0-00000-000,1-70310-240, http://www.co.marion.or.us,Salem,1843,"1,193",271
+Morrow,Oregon,"8,884","11,336",No Records Found,No Records Found, http://www.morrowcountyoregon.com,Heppner,1885,"2,049",6
+Multnomah,Oregon,"274,792","766,135",0000000,1050220,http://web.multco.us/,Portland,1854,466,1645
+Polk,Oregon,"33,938","76,794",000000,102883, http://www.co.polk.or.us/,Dallas,1845,744,103
+Sherman,Oregon,"2,914","1,731",000000000000,150000080510, http://co.sherman.or.us/,Moro,1889,831,2
+Tillamook,Oregon,"31,101","25,317",R0000000,R0081896, http://www.co.tillamook.or.us,Tillamook,1853,"1,333",19
+Umatilla,Oregon,"37,899","76,720",000000,100001, http://www.co.umatilla.or.us/,Pendleton,1862,"3,231",24
+Union,Oregon,"16,047","25,652",000000S0000AA0000,145903S3806AA6000, http://www.union-county.org/,La Grande,1864,"2,039",13
+Wallowa,Oregon,"8,140","6,814",0,1, http://www.co.wallowa.or.us,Enterprise,1887,"3,152",2
+Wasco,Oregon,"16,442","25,477",00000,10000, http://www.co.wasco.or.us,The Dalles,1854,"2,395",11
+Washington,Oregon,"178,321","554,996",0N 0 00DA 00000000,1N 2 35DA 00700001,http://www.co.washington.or.us/,Hillsboro,1843,726,764
+Wheeler,Oregon,"2,940","1,381",0,1, http://www.wheelercountyoregon.com/,Fossil,1899,"1,715",1
+Yamhill,Oregon,"40,611","100,725",000000,100009, http://www.co.yamhill.or.us,McMinnville,1843,718,140
